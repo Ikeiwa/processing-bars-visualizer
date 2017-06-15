@@ -1,3 +1,5 @@
+//This project need the "minim" library , just download it in "Sketch -> import library -> Add library"
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
